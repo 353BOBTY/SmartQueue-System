@@ -1,0 +1,6 @@
+SmartQueueSystem/
+│
+├── index.html       ← Frontend (form + queue display)
+├── queue.php        ← Backend to add/remove queue
+├── style.css        ← Optional styling
+└── queue.json       ← Data storage (automatically created)
