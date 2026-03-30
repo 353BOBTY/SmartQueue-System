@@ -1,1 +1,1 @@
-#SmartQueue-System 
+SmartQueue System
